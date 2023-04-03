@@ -1,5 +1,3 @@
 // write you're code here
-const array = [];
-const doSomething = ()=> {
-    
-}
+const array = ["D"];
+const doSomething = () => {};
