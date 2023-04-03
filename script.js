@@ -1,3 +1,5 @@
 // write you're code here
-const array = ["D"];
-const doSomething = () => {};
+const array = ["A", "B", "C", "D"];
+const doSomething = () => {
+  console.log("hello world");
+};
