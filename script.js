@@ -1,2 +1,2 @@
 // write you're code here
-const array = [];
+const array = ["A", "B", "C"];
